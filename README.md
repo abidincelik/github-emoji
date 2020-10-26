@@ -1,5 +1,5 @@
 # github-emoji
-Github Emoji List
+Github Markdown Emoji List
 
 People
 
